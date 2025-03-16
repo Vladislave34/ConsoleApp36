@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Animal.infrastructure\Animal.infrastructure.csproj" />
+	  <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.1" />
   </ItemGroup>
 
 </Project>
